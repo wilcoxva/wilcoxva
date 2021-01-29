@@ -8,4 +8,4 @@ Hi, I'm Virginia!  I'm a software engineer who is passionate about creating beau
 - 🤔 I’m looking for help with ... Interview Prep.  Let's help each other!
 - 💬 Ask me about ... Lambda School
 - 📫 How to reach me: ... wilcoxva@gmail.com | https://www.linkedin.com/in/virginia-wilcox
-- ⚡ Fun fact: ... I love my Australian Cattle Dog!
+- ⚡ Fun fact: ... I love my Australian Cattle Dogs!
