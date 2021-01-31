@@ -2,8 +2,8 @@
 
 Hi, I'm Virginia!  I'm a software engineer who is passionate about creating beautiful, feature-filled websites using React and Node.
 
-- 🔭 I’m currently working on ... a Water My Plants App
-- 🌱 I’m currently learning ... React Native
+- 🔭 I’m currently working on ... a Water My Plants App & my Portfolio
+- 🌱 I’m currently learning ... to refresh my skills!
 - 👯 I’m looking to collaborate on ... Anything.
 - 🤔 I’m looking for help with ... Interview Prep.  Let's help each other!
 - 💬 Ask me about ... Lambda School
